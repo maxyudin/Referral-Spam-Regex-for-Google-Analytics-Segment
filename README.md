@@ -25,4 +25,4 @@ Press "Save" button near segment name and you are ready to use this segment.
 
 Your segment settins should look like this:
 
-![Alt Text](https://imgur.com/KzUYpak)
+![Screenshot](https://cloud.githubusercontent.com/assets/1131450/13141377/abb8704c-d63f-11e5-9210-6e650a7fadb0.png)
