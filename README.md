@@ -25,4 +25,4 @@ Press "Save" button near segment name and you are ready to use this segment.
 
 Your segment settins should look like this:
 
-![alt tag](https://imgur.com/KzUYpak "Screenshot")
+![Alt Text](https://imgur.com/KzUYpak)
